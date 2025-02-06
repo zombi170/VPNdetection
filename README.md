@@ -1,1 +1,7 @@
-# VPNdetection
+# Evaluating the Efficacy of VPN Detection Techniques
+
+This is my thesis work for the BSc Computer Science Engineer programme at BME.
+
+## Abstract
+
+The aim of this thesis is to examine the efficiency of detecting and identifying Virtual Private Network (VPN) traffic, with a particular focus on the application of modern machine learning methods, as well as to develop and implement a new, more effective approach. The relevance and importance of this topic stem from the widespread adoption of VPN technologies, which can be used both for data protection and to conceal malicious activities. This dual role makes research into the accurate identification of such traffic particularly justified, as improper or insufficient detection of VPNs can pose significant security risks. The thesis explores three different machine learning approaches for classifying VPN and non-VPN traffic, utilizing various features and algorithms. Based on the results, the thesis demonstrates that machine learning models are capable of high- accuracy classification, achieving up to 100% accuracy in certain cases. The findings validate both the applicability and effectiveness of these methods. The implemented solutions contribute to enhancing network security by providing efficient tools for VPN traffic detection. This not only supports the development of security systems but also improves the reliability and transparency of internet usage, representing a significant step towards creating a safer network environment.
